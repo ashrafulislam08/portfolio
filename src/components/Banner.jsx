@@ -1,10 +1,10 @@
 const Banner = () => {
   return (
-    <div className="bg-slate-500 py-16 text-center">
-      <h2 className="text-3xl lg:text-4xl font-bold text-center text-white">
+    <div className="bg-500 py-16 text-center">
+      <h2 className="text-3xl lg:text-7xl font-bold text-center text-white">
         Hi there, This is Ashraful Islam
       </h2>
-      <p className="text-center my-2 mx-2 lg:w-1/2 lg:mx-auto lg:text-lg mb-5">
+      <p className="text-center my-2 mx-2 lg:w-1/2 lg:mx-auto lg:text-xl mb-5">
         MERN Stack developer with the passion of creating modern applications
         and curious to learn new technologies
       </p>
